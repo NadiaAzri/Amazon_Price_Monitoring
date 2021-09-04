@@ -20,7 +20,7 @@ url = 'https://www.amazon.com/DJI-Mavic-Air-More-Combo/dp/B086XCGMN7/ref=sr_1_2_
       'lja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=='
 
 # path to file in the folder
-save_data_file = '/home/nadia/PycharmProjects/Amazon_Price_Monitoring/PriceHistory.csv'
+save_data_file = '.../Amazon_Price_Monitoring/PriceHistory.csv'
 
 # Initializing the variables that we'll going to use...
 start_time = time.time()
